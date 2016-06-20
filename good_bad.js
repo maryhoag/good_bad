@@ -22,6 +22,7 @@ server.listen(port2, function() {
 	console.log('Listening to ' + port2);
 	console.log(bad[n]);
 });
+//can also use inquirer to choose port/outcome
 
 var n = Math.floor(Math.random() * 3);
 //array of insults
