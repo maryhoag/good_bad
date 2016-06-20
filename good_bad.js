@@ -26,7 +26,7 @@ server.listen(port2, function() {
 var n = Math.floor(Math.random() * 3);
 //array of insults
 var bad = [
-	'you stuck up, half-witted, scruffy-looking Nerf herder', 'You clinking, clanking, clattering collection of caligenous junk!', 'You\'re a gutless turd.', 'Frankly, my dear, I don\'t give a damn.', ''
+	'you stuck up, half-witted, scruffy-looking Nerf herder', 'You clinking, clanking, clattering collection of caligenous junk!', 'You\'re a gutless turd.', 'Frankly, my dear, I don\'t give a damn.'
 ];
 //array of good things
 var good = [
